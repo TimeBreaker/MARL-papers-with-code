@@ -9,6 +9,128 @@ My email: chenhao2019@ia.ac.cn
 
 ## Overview
 
+## Value Decomposition
+* VDN
+* QMIX
+* QTRAN
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+## Communication
+* ATOC
+* BicNet
+* CommNet
+* Communication under limited bandwidth
+   * 
+   *
+   *
+
+## Emergent
+* 
+* 
+* 
+
+## Opponent Modeling
+* 
+* 
+* 
+
+## Hierarchical
+* 
+* 
+* 
+
+## Ad Hoc Teamwork
+* 
+* 
+* 
+
+## League Training
+* 
+* 
+* 
+
+## Curriculum Learning
+* 
+* 
+* 
+
+## Meta-Learning
+* 
+* 
+* 
+
+## Fairness 
+* 
+* 
+*
+
+## Exploration
+* 
+* 
+*
+
+## Model-based
+* 
+* 
+*
+
+## NAS-related
+* 
+* 
+*
+
+## Safe Multi-Agent Reinforcement Learning
+* 
+* 
+*
+
+## 
+* IQL
+* IPPO
+*
+
+## 
+* 
+* 
+*
+
+## 
+* 
+* 
+*
+
+## 
+* 
+* 
+*
+
+## 
+* 
+* 
+*
+
+## 
+* 
+* 
+*
+
+## 
+* 
+* 
+*
+
+## 
+* 
+* 
+*
 
 
 
