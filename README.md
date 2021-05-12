@@ -1,4 +1,4 @@
-# MARL-papers-with-code
+# MARL papers with code
 This is a collection of Multi-Agent Reinforcement Learning (MARL) papers with code. I have selected some relatively important papers with open source code and categorized them by time and method.
 
 I will continually update this repository and I welcome suggestions and advices.(missing important papers, missing categories, invalid links, etc.)
