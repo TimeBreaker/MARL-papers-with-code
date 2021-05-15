@@ -39,5 +39,5 @@ Curriculum Learning|[From Few to More: Large-Scale Dynamic Multiagent Curriculum
 
 
 ## TODO
-* More papers will be added in [Other Papers](https://github.com/TimeBreaker/MARL-papers-with-code#other-papers) part.
+* More papers will be added to [Other Papers](https://github.com/TimeBreaker/MARL-papers-with-code#other-papers).
 
