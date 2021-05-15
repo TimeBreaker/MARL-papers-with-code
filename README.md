@@ -11,7 +11,7 @@ My email: chenhao2019@ia.ac.cn
 
 ## Overview
 * [Classic Papers](https://github.com/TimeBreaker/MARL-papers-with-code#classic-papers)
-* [Recent Papers](https://github.com/TimeBreaker/MARL-papers-with-code#recent-papers)
+* [Other Papers](https://github.com/TimeBreaker/MARL-papers-with-code#other-papers)
 * [TODO](https://github.com/TimeBreaker/MARL-papers-with-code#todo)
 
 ## Classic Papers
@@ -28,7 +28,7 @@ Communication|[CommNet：Learning Multiagent Communication with Backpropagation]
 Communication|[IC3Net：Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://arxiv.org/abs/1812.09755)|https://github.com/IC3Net/IC3Net
 Exploration|[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/StarCraft
 
-## Recent Papers
+## Other Papers
 Category|Paper|Code
 --|:--:|--:
 Communication||
@@ -39,5 +39,5 @@ Curriculum Learning|[From Few to More: Large-Scale Dynamic Multiagent Curriculum
 
 
 ## TODO
-* 
+* More papers will be added in [Other Papers](https://github.com/TimeBreaker/MARL-papers-with-code#other-papers) part.
 
