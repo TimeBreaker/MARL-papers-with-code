@@ -26,6 +26,7 @@ Policy Gradient|[MADDPG：Multi-Agent Actor-Critic for Mixed Cooperative-Competi
 Communication|[BiCNet：Multiagent Bidirectionally-Coordinated Nets: Emergence of Human-level Coordination in Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069)|https://github.com/Coac/CommNet-BiCnet
 Communication|[CommNet：Learning Multiagent Communication with Backpropagation](https://arxiv.org/abs/1605.07736)|https://github.com/facebookarchive/CommNet
 Communication|[IC3Net：Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://arxiv.org/abs/1812.09755)|https://github.com/IC3Net/IC3Net
+Communication|[RIAL/RIDL：Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)|https://github.com/iassael/learning-to-communicate
 Exploration|[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/StarCraft
 
 ## Other Papers
@@ -36,6 +37,9 @@ Communication||
 Communication||
 Graph Neural Network|[Multi-Agent Game Abstraction via Graph Attention Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/6211/6067)|https://github.com/starry-sky6688/StarCraft
 Curriculum Learning|[From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)|https://github.com/starry-sky6688/StarCraft
+Role|[ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)|https://github.com/TonghanWang/ROMA
+Role|[RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)|https://github.com/TonghanWang/RODE
+Opponent Modeling|[Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559)|https://github.com/hhexiy/opponent
 
 
 ## TODO
