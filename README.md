@@ -17,6 +17,10 @@ My email: chenhao2019@ia.ac.cn
 ## Classic Papers
 Category|Paper|Code
 --|:--:|--:
+Value Decomposition|[VDN：Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/pdf/1706.05296)|https://github.com/oxwhirl/pymarl
+Value Decomposition|[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/rashid18a/rashid18a.pdf)|https://github.com/oxwhirl/pymarl
+Value Decomposition|[QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.05408)|https://github.com/oxwhirl/pymarl
+
 
 
 ## Recent Papers
