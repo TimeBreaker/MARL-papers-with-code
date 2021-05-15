@@ -16,8 +16,8 @@ My email: chenhao2019@ia.ac.cn
 
 ## Classic Papers
 Paper|Code
-a|by
 --|--:
+a|by
 * 
 * 
 * 
