@@ -34,6 +34,7 @@ Category|Paper|Code
 --|:--:|--:
 Graph Neural Network|[Multi-Agent Game Abstraction via Graph Attention Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/6211/6067)|https://github.com/starry-sky6688/StarCraft
 Curriculum Learning|[From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)|https://github.com/starry-sky6688/StarCraft
+Curriculum Learning|[EPC：Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423)|https://github.com/qian18long/epciclr2020
 Role|[ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)|https://github.com/TonghanWang/ROMA
 Role|[RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)|https://github.com/TonghanWang/RODE
 Opponent Modeling|[Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559)|https://github.com/hhexiy/opponent
@@ -44,8 +45,16 @@ Environment|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/
 Curriculum Learning/Emergent|[Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/pdf/1909.07528)|https://github.com/openai/multi-agent-emergence-environments
 Curriculum Learning|[Cooperative Multi-agent Control using deep reinforcement learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)|https://github.com/sisl/MADRL
 Exploration|[EITI/EDTI：Influence-Based Multi-Agent Exploration](https://arxiv.org/pdf/1910.05512)|https://github.com/TonghanWang/EITI-EDTI
+Exploration|[LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](http://papers.neurips.cc/paper/8691-liir-learning-individual-intrinsic-reward-in-multi-agent-reinforcement-learning.pdf)|https://github.com/yalidu/liir
 From Single-Agent to Multi-Agent|[MAPPO：The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/pdf/2103.01955)|https://github.com/marlbenchmark/on-policy
-
+|[Q-DPP：Multi-Agent Determinantal Q-Learning](http://proceedings.mlr.press/v119/yang20i/yang20i.pdf)|https://github.com/QDPP-GitHub/QDPP
+Others|[M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://arxiv.org/pdf/1810.00147)|https://github.com/facebookresearch/M3RL
+Ad Hoc Teamwork|[CollaQ：Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/pdf/2010.08531)|https://github.com/facebookresearch/CollaQ
+Value Decomposition|[NDQ: Learning Nearly Decomposable Value Functions Via Communication Minimization](https://arxiv.org/abs/1910.05366v1)|https://github.com/TonghanWang/NDQ
+Policy Gradient|[DOP: Off-Policy Multi-Agent Decomposed PolicyGradients](https://arxiv.org/abs/2007.12322)|https://github.com/TonghanWang/DOP
+Self-Play|[TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2011.12895)|https://github.com/tencent-ailab/TLeague
+Others|[ UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers](https://openreview.net/forum?id=v9c7hr9ADKx)|https://github.com/hhhusiyi-monash/UPDeT
+|[ Actor-Attention-Critic for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1810.02912)|https://github.com/shariqiqbal2810/MAAC
 
 
 ## TODO
