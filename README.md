@@ -43,6 +43,7 @@ Communication|[Fully decentralized multi-agent reinforcement learning with netwo
 Environment|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/pdf/1710.03748.pdf%3Cp%3EKEYWORDS:&nbsp;Artificial)|https://github.com/openai/multiagent-competition
 Curriculum Learning/Emergent|[Emergent Tool Use From Multi-Agent Autocurricula](https://arxiv.org/pdf/1909.07528)|https://github.com/openai/multi-agent-emergence-environments
 Curriculum Learning|[Cooperative Multi-agent Control using deep reinforcement learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)|https://github.com/sisl/MADRL
+Exploration|[EITI/EDTI：Influence-Based Multi-Agent Exploration](https://arxiv.org/pdf/1910.05512)|https://github.com/TonghanWang/EITI-EDTI
 
 ## TODO
 * More papers will be added to [Other Papers](https://github.com/TimeBreaker/MARL-papers-with-code#other-papers).
