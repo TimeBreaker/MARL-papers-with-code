@@ -60,3 +60,14 @@ Others|[M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://
 ## TODO
 * More papers will be added to [Other Papers](https://github.com/TimeBreaker/MARL-papers-with-code#other-papers).
 
+## Citation
+
+If you find this repository useful, please cite our repo:
+```
+@misc{chen2021multi,
+  title={Multi-Agent Reinforcement Learning Papers with Code},
+  author={Chen, Hao},
+  journal={https://github.com/TimeBreaker/MARL-papers-with-code},
+  year={2021}
+}
+```
