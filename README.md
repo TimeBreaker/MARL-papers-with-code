@@ -31,7 +31,7 @@ Exploration|[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/
 
 ## Other Papers
 Category|Paper|Code|Accepted at|Year
---|:--:|--:
+--|:--:|:---:|--:
 Graph Neural Network|[Multi-Agent Game Abstraction via Graph Attention Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/6211/6067)|https://github.com/starry-sky6688/StarCraft
 Curriculum Learning|[From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)|https://github.com/starry-sky6688/StarCraft
 Curriculum Learning|[EPC：Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.10423)|https://github.com/qian18long/epciclr2020
