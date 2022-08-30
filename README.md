@@ -30,7 +30,7 @@ Communication|[RIAL/RIDL：Learning to Communicate with Deep Multi-Agent Reinfor
 Exploration|[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/StarCraft
 
 ## Other Papers
-Category|Paper|Code
+Category|Paper|Code|Accepted at|Year
 --|:--:|--:
 Graph Neural Network|[Multi-Agent Game Abstraction via Graph Attention Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/6211/6067)|https://github.com/starry-sky6688/StarCraft
 Curriculum Learning|[From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://arxiv.org/abs/1909.02790)|https://github.com/starry-sky6688/StarCraft
@@ -56,6 +56,7 @@ Value Decomposition|[QPLEX: Duplex Dueling Multi-Agent Q-Learning](https://arxiv
 Self-Play|[TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2011.12895)|https://github.com/tencent-ailab/TLeague
 Others|[UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers](https://openreview.net/forum?id=v9c7hr9ADKx)|https://github.com/hhhusiyi-monash/UPDeT
 Others|[M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://arxiv.org/pdf/1810.00147)|https://github.com/facebookresearch/M3RL
+Sparse Reward|[Individual Reward Assisted Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf)|https://github.com/MDrW/ICML2022-IRAT|ICML|2022
 
 ## TODO
 * More papers will be added to [Other Papers](https://github.com/TimeBreaker/MARL-papers-with-code#other-papers).
