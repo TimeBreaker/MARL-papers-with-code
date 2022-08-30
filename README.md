@@ -15,8 +15,8 @@ My email: chenhao2019@ia.ac.cn
 * [TODO](https://github.com/TimeBreaker/MARL-papers-with-code#todo)
 
 ## Classic Papers
-Category|Paper|Code
---|:--:|--:
+Category|Paper|Code|Accepted at|Year
+--|:--:|:--:|:--:|--:
 Independent Learning|[IQL：Multi-Agent Reinforcement Learning: Independent vs. Cooperative Agents](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.3701&rep=rep1&type=pdf)|https://github.com/oxwhirl/pymarl
 Value Decomposition|[VDN：Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/pdf/1706.05296)|https://github.com/oxwhirl/pymarl
 Value Decomposition|[QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v80/rashid18a/rashid18a.pdf)|https://github.com/oxwhirl/pymarl
