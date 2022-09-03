@@ -89,9 +89,11 @@ Generalization|[UNMAS: Multiagent Reinforcement Learningfor Unshaped Cooperative
 If you find this repository useful, please cite our repo:
 ```
 @misc{chen2021multi,
-  title={Multi-Agent Reinforcement Learning Papers with Code},
   author={Chen, Hao},
-  journal={https://github.com/TimeBreaker/MARL-papers-with-code},
+  title={Multi-Agent Reinforcement Learning Papers with Code},
   year={2021}
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/TimeBreaker/MARL-papers-with-code}}
 }
 ```
