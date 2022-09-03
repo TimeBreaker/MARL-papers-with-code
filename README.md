@@ -17,6 +17,7 @@ My email: chenhao915@mails.ucas.ac.cn
 
 
 ## Classic Papers
+### Algorithms
 Category|Paper|Code|Accepted at|Year
 --|:--:|:--:|:--:|--:
 Independent Learning|[IQL：Multi-Agent Reinforcement Learning: Independent vs. Cooperative Agents](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.3701&rep=rep1&type=pdf)|https://github.com/oxwhirl/pymarl|ICML|1993
@@ -30,6 +31,10 @@ Communication|[CommNet：Learning Multiagent Communication with Backpropagation]
 Communication|[IC3Net：Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks](https://arxiv.org/abs/1812.09755)|https://github.com/IC3Net/IC3Net||2018
 Communication|[RIAL/RIDL：Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)|https://github.com/iassael/learning-to-communicate|NIPS|2016
 Exploration|[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/MARL-Algorithms|NIPS|2019
+
+### Algorithms
+Category|Paper|Code|Accepted at|Year
+--|:--:|:--:|:--:|--:
 
 
 ## Other Papers
