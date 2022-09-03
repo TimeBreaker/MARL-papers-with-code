@@ -46,7 +46,7 @@ MALib|[MALib: A Parallel Framework for Population-based Multi-agent Reinforcemen
 MAgent|[MAgent: A many-agent reinforcement learning platform for artificial collective intelligence](https://ojs.aaai.org/index.php/AAAI/article/download/11371/11230)|https://github.com/Farama-Foundation/MAgent|AAAI|2018
 Neural MMO|[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/pdf/1903.00784)|https://github.com/openai/neural-mmo||2019
 MPE|[Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf)|https://github.com/openai/multiagent-particle-envs|NIPS|2017
-
+Pommerman|[Pommerman: A multi-agent playground](https://arxiv.org/pdf/1809.07124.pdfâ€%E2%80%B9arxiv.org)|https://github.com/MultiAgentLearning/playground||2018
 
 
 ## Other Papers
