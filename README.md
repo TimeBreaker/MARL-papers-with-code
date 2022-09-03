@@ -37,7 +37,15 @@ Environment|Paper|Code|Accepted at|Year
 --|:--:|:--:|:--:|--:
 StarCraft|[The StarCraft Multi-Agent Challenge](https://arxiv.org/pdf/1902.04043)|https://github.com/oxwhirl/smac|NIPS|2019
 StarCraft|[SMACv2: A New Benchmark for Cooperative Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=pcBnes02t3u)|https://github.com/oxwhirl/smacv2||2022
-
+StarCraft|[Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks](https://arxiv.org/pdf/2006.07869)|https://github.com/uoe-agents/epymarl|NIPS|2021
+Football|[Google Research Football: A Novel Reinforcement Learning Environment](https://ojs.aaai.org/index.php/AAAI/article/view/5878/5734)|https://github.com/google-research/football|AAAI|2020
+PettingZoo|[PettingZoo: Gym for Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/file/7ed2d3454c5eea71148b11d0c25104ff-Paper.pdf)|https://github.com/Farama-Foundation/PettingZoo|NIPS|2021
+Melting Pot|[Scalable Evaluation of Multi-Agent Reinforcement Learning with Melting Pot](http://proceedings.mlr.press/v139/leibo21a/leibo21a.pdf)|https://github.com/deepmind/meltingpot|ICML|2021
+MuJoCo|[MuJoCo: A physics engine for model-based control](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.296.6848&rep=rep1&type=pdf)|https://github.com/deepmind/mujoco|IROS|2012
+MALib|[MALib: A Parallel Framework for Population-based Multi-agent Reinforcement Learning](https://arxiv.org/pdf/2106.07551)|https://github.com/sjtu-marl/malib||2021
+MAgent|[MAgent: A many-agent reinforcement learning platform for artificial collective intelligence](https://ojs.aaai.org/index.php/AAAI/article/download/11371/11230)|https://github.com/Farama-Foundation/MAgent|AAAI|2018
+Neural MMO|[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/pdf/1903.00784)|https://github.com/openai/neural-mmo||2019
+MPE|[Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf)|https://github.com/openai/multiagent-particle-envs|NIPS|2017
 
 
 
