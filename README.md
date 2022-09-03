@@ -32,9 +32,11 @@ Communication|[IC3Net：Learning when to Communicate at Scale in Multiagent Coop
 Communication|[RIAL/RIDL：Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)|https://github.com/iassael/learning-to-communicate|NIPS|2016
 Exploration|[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/MARL-Algorithms|NIPS|2019
 
-### Algorithms
-Category|Paper|Code|Accepted at|Year
+### Environments
+Paper|Code|Accepted at|Year
 --|:--:|:--:|:--:|--:
+[The StarCraft Multi-Agent Challenge](https://arxiv.org/pdf/1902.04043)|https://github.com/oxwhirl/smac|NIPS|2019
+
 
 
 ## Other Papers
