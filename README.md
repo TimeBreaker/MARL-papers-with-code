@@ -33,9 +33,11 @@ Communication|[RIAL/RIDL：Learning to Communicate with Deep Multi-Agent Reinfor
 Exploration|[MAVEN：Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483)|https://github.com/starry-sky6688/MARL-Algorithms|NIPS|2019
 
 ### Environments
-Paper|Code|Accepted at|Year
+Environment|Paper|Code|Accepted at|Year
 --|:--:|:--:|:--:|--:
-[The StarCraft Multi-Agent Challenge](https://arxiv.org/pdf/1902.04043)|https://github.com/oxwhirl/smac|NIPS|2019
+StarCraft|[The StarCraft Multi-Agent Challenge](https://arxiv.org/pdf/1902.04043)|https://github.com/oxwhirl/smac|NIPS|2019
+StarCraft|[SMACv2: A New Benchmark for Cooperative Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=pcBnes02t3u)|https://github.com/oxwhirl/smacv2||2022
+
 
 
 
