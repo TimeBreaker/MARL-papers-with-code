@@ -47,6 +47,7 @@ MAgent|[MAgent: A many-agent reinforcement learning platform for artificial coll
 Neural MMO|[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/pdf/1903.00784)|https://github.com/openai/neural-mmo||2019
 MPE|[Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf)|https://github.com/openai/multiagent-particle-envs|NIPS|2017
 Pommerman|[Pommerman: A multi-agent playground](https://arxiv.org/pdf/1809.07124.pdfâ€%E2%80%B9arxiv.org)|https://github.com/MultiAgentLearning/playground||2018
+HFO|[Half Field Offense: An Environment for Multiagent Learning and Ad Hoc Teamwork](https://www.cse.iitb.ac.in/~shivaram/papers/hmsks_ala_2016.pdf)|https://github.com/LARG/HFO|AAMAS Workshop|2016
 
 
 ## Other Papers
@@ -78,6 +79,8 @@ Transformer|[UPDeT: Universal Multi-agent Reinforcement Learning via Policy Deco
 Sparse Reward|[Individual Reward Assisted Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v162/wang22ao/wang22ao.pdf)|https://github.com/MDrW/ICML2022-IRAT|ICML|2022
 Ad Hoc|[Open Ad Hoc Teamwork using Graph-based Policy Learning](http://proceedings.mlr.press/v139/rahman21a/rahman21a.pdf)|https://github.com/uoe-agents/GPL|ICLM|2021
 Generalization|[UNMAS: Multiagent Reinforcement Learningfor Unshaped Cooperative Scenarios](https://arxiv.org/pdf/2203.14477)|https://github.com/James0618/unmas|TNNLS|2021
+Other|[SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1400.pdf)|https://github.com/deligentfool/SIDE|AAMAS|2022
+
 
 
 ## TODO
