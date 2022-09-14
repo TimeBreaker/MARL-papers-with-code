@@ -60,6 +60,7 @@ Curriculum Learning/Emergent|[Emergent Tool Use From Multi-Agent Autocurricula](
 Curriculum Learning|[Cooperative Multi-agent Control using deep reinforcement learning](http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf)|https://github.com/sisl/MADRL|AAMAS|2017
 Role|[ROMA: Multi-Agent Reinforcement Learning with Emergent Roles](https://openreview.net/pdf?id=RQP2wq-dbkz)|https://github.com/TonghanWang/ROMA|ICML|2020
 Role|[RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523)|https://github.com/TonghanWang/RODE|ICLR|2021
+Role|[Scaling Multi-Agent Reinforcement Learning with Selective Parameter Sharing](http://proceedings.mlr.press/v139/christianos21a/christianos21a.pdf)|https://github.com/uoe-agents/seps|ICML|2021
 Opponent Modeling|[Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559)|https://github.com/hhexiy/opponent|ICML|2016
 Selfish Agent|[M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://arxiv.org/pdf/1810.00147)|https://github.com/facebookresearch/M3RL|ICLR|2019
 Communication|[Emergence of grounded compositional language in multi-agent populations](https://ojs.aaai.org/index.php/AAAI/article/download/11492/11351)|https://github.com/bkgoksel/emergent-language|AAAI|2018
