@@ -5,6 +5,8 @@ For MARL papers and MARL resources, please refer to [Multi Agent Reinforcement L
 
 I will continually update this repository and I welcome suggestions. (missing important papers, missing categories, invalid links, etc.) This is only a first draft so far and I'll add more resources in the next few months.
 
+**Update (2026):** Added a [Recent Papers with Code (2022–2026)](#recent-papers-with-code-2022-2026) section covering recent open-source work (value factorization, policy gradient, offline MARL, sequence/diffusion models, communication & coordination graphs, roles, ad hoc / zero-shot coordination, LLM-based multi-agent, adversarial/robust). Only papers with an official / well-known open-source repository are listed.
+
 This repository is not for commercial purposes.
 
 My email: chenhao915@mails.ucas.ac.cn
@@ -13,6 +15,7 @@ My email: chenhao915@mails.ucas.ac.cn
 ## Overview
 * [Classic Papers](https://github.com/TimeBreaker/MARL-papers-with-code#classic-papers)
 * [Other Papers](https://github.com/TimeBreaker/MARL-papers-with-code#other-papers)
+* [Recent Papers with Code (2022–2026)](https://github.com/TimeBreaker/MARL-papers-with-code#recent-papers-with-code-2022-2026)
 * [TODO](https://github.com/TimeBreaker/MARL-papers-with-code#todo)
 
 
@@ -82,6 +85,57 @@ Ad Hoc|[Open Ad Hoc Teamwork using Graph-based Policy Learning](http://proceedin
 Generalization|[UNMAS: Multiagent Reinforcement Learningfor Unshaped Cooperative Scenarios](https://arxiv.org/pdf/2203.14477)|https://github.com/James0618/unmas|TNNLS|2021
 Other|[SIDE: State Inference for Partially Observable Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1400.pdf)|https://github.com/deligentfool/SIDE|AAMAS|2022
 Other|[Context-Aware Sparse Deep Coordination Graphs](https://arxiv.org/pdf/2106.02886)|https://github.com/TonghanWang/CASEC-MACO-benchmark|ICLR|2022
+
+
+## Recent Papers with Code (2022–2026)
+A curated batch of recent MARL papers that ship an official or widely-used open-source implementation. Grouped by topic.
+
+Category|Paper|Code|Accepted at|Year
+--|:--:|:--:|:--:|--:
+Value Factorization|[ResQ: A Residual Q Function-based Approach for MARL Value Factorization](https://arxiv.org/abs/2205.15245)|https://github.com/xmu-rl-3dv/ResQ|NeurIPS|2022
+Value Factorization|[DFAC: Factorizing Distributional Value Functions for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2306.02430)|https://github.com/j3soon/dfac-extended|JMLR|2023
+Value Factorization|[RiskQ: Risk-sensitive Multi-Agent Reinforcement Learning Value Factorization](https://arxiv.org/abs/2311.01753)|https://github.com/xmu-rl-3dv/RiskQ|NeurIPS|2023
+Value Factorization|[Soft-QMIX: Integrating Maximum Entropy for Monotonic Value Function Factorization](https://arxiv.org/abs/2406.13930)|https://github.com/WentseChen/Soft-QMIX||2024
+Value Factorization|[DoF: A Diffusion Factorization Framework for Offline MARL](https://openreview.net/forum?id=OTFKVkxSlL)|https://github.com/xmu-rl-3dv/DoF|ICLR|2025
+Policy Gradient|[HATRPO/HAPPO: Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2109.11251)|https://github.com/morning9393/HAPPO-HATRPO|ICLR|2022
+Policy Gradient|[A2PO: Order Matters: Agent-by-agent Policy Optimization](https://arxiv.org/abs/2302.06205)|https://github.com/xihuai18/A2PO-ICLR2023|ICLR|2023
+Policy Gradient|[HARL: Heterogeneous-Agent Reinforcement Learning](https://jmlr.org/papers/v25/23-0488.html)|https://github.com/PKU-MARL/HARL|JMLR|2024
+Policy Gradient|[HASAC: Maximum Entropy Heterogeneous-Agent Reinforcement Learning](https://arxiv.org/abs/2306.10715)|https://github.com/PKU-MARL/HARL|ICLR|2024
+Policy Gradient|[BPTA: Backpropagation Through Agents](https://arxiv.org/abs/2401.12574)|https://github.com/LiZhYun/BackPropagationThroughAgents|AAAI|2024
+Policy Gradient|[Optimistic Multi-Agent Policy Gradient](https://arxiv.org/abs/2311.01953)|https://github.com/wenshuaizhao/optimappo|ICML|2024
+Offline MARL|[OMAR: Offline Multi-Agent Reinforcement Learning with Actor Rectification](https://proceedings.mlr.press/v162/pan22a.html)|https://github.com/ling-pan/OMAR|ICML|2022
+Offline MARL|[CFCQL: Counterfactual Conservative Q Learning for Offline MARL](https://arxiv.org/abs/2309.12696)|https://github.com/thu-rllab/CFCQL|NeurIPS|2023
+Offline MARL|[OMIGA: Offline MARL with Implicit Global-to-Local Value Regularization](https://arxiv.org/abs/2307.11620)|https://github.com/ZhengYinan-AIR/OMIGA|NeurIPS|2023
+Offline MARL|[OG-MARL: Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2409.12001)|https://github.com/instadeepai/og-marl||2024
+Sequence Model / Diffusion|[MAT: Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)|https://github.com/PKU-MARL/Multi-Agent-Transformer|NeurIPS|2022
+Sequence Model / Diffusion|[MADiff: Offline Multi-agent Learning with Diffusion Models](https://arxiv.org/abs/2305.17330)|https://github.com/zbzhu99/madiff|NeurIPS|2024
+Sequence Model / Diffusion|[Oryx: A Scalable Sequence Model for Many-Agent Coordination in Offline MARL](https://arxiv.org/abs/2505.22151)|https://github.com/instadeepai/og-marl|NeurIPS|2025
+Communication|[MAIC: Multi-Agent Incentive Communication via Decentralized Teammate Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/21179)|https://github.com/mansicer/MAIC|AAAI|2022
+Communication|[MASIA: Efficient Multi-agent Communication via Self-supervised Information Aggregation](https://openreview.net/forum?id=n4wnZAdBavx)|https://github.com/chenf-ai/MASIA|NeurIPS|2022
+Communication|[CACOM: Context-aware Communication for Multi-agent Reinforcement Learning](https://arxiv.org/abs/2312.15600)|https://github.com/LXXXXR/CACOM|AAMAS|2024
+Communication|[CommFormer: Learning Multi-Agent Communication from Graph Modeling Perspective](https://openreview.net/forum?id=Qox9rO0kN0)|https://github.com/charleshsc/CommFormer|ICLR|2024
+Coordination Graph|[SOG: Self-Organized Group for Cooperative Multi-agent Reinforcement Learning](https://openreview.net/forum?id=hd5KRowT3oB)|https://github.com/thu-rllab/SOG|NeurIPS|2022
+Coordination Graph|[GACG: Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning](https://www.ijcai.org/proceedings/2024/434)|https://github.com/Wei9711/GACG|IJCAI|2024
+Role|[ACORM: Attention-Guided Contrastive Role Representations for MARL](https://openreview.net/forum?id=LWmuPfEYhH)|https://github.com/NJU-RL/ACORM|ICLR|2024
+Diversity|[DiCo: Controlling Behavioral Diversity in Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v235/bettini24a.html)|https://github.com/proroklab/ControllingBehavioralDiversity|ICML|2024
+Ad Hoc Teamwork|[NAHT: N-Agent Ad Hoc Teamwork](https://arxiv.org/abs/2404.10740)|https://github.com/carolinewang01/naht|NeurIPS|2024
+Zero-Shot Coordination|[HSP: Learning Zero-Shot Cooperation with Humans, Assuming Humans Are Biased](https://arxiv.org/abs/2302.01605)|https://github.com/samjia2000/HSP|ICLR|2023
+Zero-Shot Coordination|[COLE: Cooperative Open-ended Learning Framework for Zero-shot Coordination](https://arxiv.org/abs/2302.04831)|https://github.com/liyang619/COLE-Platform|ICML|2023
+Large Scale / Permutation Invariant|[HPN: Boosting MARL via Permutation Invariant and Permutation Equivariant Networks](https://openreview.net/forum?id=OxNQXyZK-K8)|https://github.com/tjuHaoXiaotian/API-Network|ICLR|2023
+Benchmark|[BenchMARL: Benchmarking Multi-Agent Reinforcement Learning](https://jmlr.org/papers/v25/23-1612.html)|https://github.com/facebookresearch/BenchMARL|JMLR|2024
+LLM-based Multi-Agent|[CAMEL: Communicative Agents for "Mind" Exploration of LLM Society](https://arxiv.org/abs/2303.17760)|https://github.com/camel-ai/camel|NeurIPS|2023
+LLM-based Multi-Agent|[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)|https://github.com/joonspk-research/generative_agents|UIST|2023
+LLM-based Multi-Agent|[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)|https://github.com/MineDojo/Voyager|TMLR|2023
+LLM-based Multi-Agent|[AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155)|https://github.com/microsoft/autogen|COLM|2024
+LLM-based Multi-Agent|[MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)|https://github.com/geekan/MetaGPT|ICLR|2024
+LLM-based Multi-Agent|[ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924)|https://github.com/OpenBMB/ChatDev|ACL|2024
+LLM-based Multi-Agent|[AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)|https://github.com/OpenBMB/AgentVerse|ICLR|2024
+LLM-based Multi-Agent|[CoELA: Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485)|https://github.com/UMass-Embodied-AGI/Co-LLM-Agents|ICLR|2024
+LLM-based Multi-Agent|[ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://arxiv.org/abs/2308.11339)|https://github.com/PKU-Alignment/ProAgent|AAAI|2024
+LLM-based Multi-Agent|[Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931)|https://github.com/eureka-research/Eureka|ICLR|2024
+LLM-based Multi-Agent|[LLM-Coordination: Evaluating Multi-agent Coordination Abilities in Large Language Models](https://arxiv.org/abs/2310.03903)|https://github.com/eric-ai-lab/llm_coordination|NAACL Findings|2025
+Adversarial / Robust|[AMI: Attacking Cooperative MARL by Adversarial Minority Influence](https://arxiv.org/abs/2302.03322)|https://github.com/DIG-Beihang/AMI||2023
+Adversarial / Robust|[WALL: Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.02844)|https://github.com/sunwoolee0504/WALL|ICML|2025
 
 
 ## TODO
