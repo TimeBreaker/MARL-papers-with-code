@@ -136,6 +136,7 @@ LLM-based Multi-Agent|[Eureka: Human-Level Reward Design via Coding Large Langua
 LLM-based Multi-Agent|[LLM-Coordination: Evaluating Multi-agent Coordination Abilities in Large Language Models](https://arxiv.org/abs/2310.03903)|https://github.com/eric-ai-lab/llm_coordination|NAACL Findings|2025
 Adversarial / Robust|[AMI: Attacking Cooperative MARL by Adversarial Minority Influence](https://arxiv.org/abs/2302.03322)|https://github.com/DIG-Beihang/AMI||2023
 Adversarial / Robust|[WALL: Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.02844)|https://github.com/sunwoolee0504/WALL|ICML|2025
+Model-Based / World Model|[MABL: Bi-Level Latent-Variable World Model for Sample-Efficient Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2304.06011)|https://github.com/aravindvenu7/MABL|AAMAS|2024
 
 
 ## TODO
