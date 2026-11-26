@@ -137,6 +137,8 @@ LLM-based Multi-Agent|[LLM-Coordination: Evaluating Multi-agent Coordination Abi
 Adversarial / Robust|[AMI: Attacking Cooperative MARL by Adversarial Minority Influence](https://arxiv.org/abs/2302.03322)|https://github.com/DIG-Beihang/AMI||2023
 Adversarial / Robust|[WALL: Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.02844)|https://github.com/sunwoolee0504/WALL|ICML|2025
 Model-Based / World Model|[MABL: Bi-Level Latent-Variable World Model for Sample-Efficient Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2304.06011)|https://github.com/aravindvenu7/MABL|AAMAS|2024
+Interpretability|[MAVIPER: Learning Decision Tree Policies for Interpretable Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2205.12449)|https://github.com/stephmilani/multiagent-viper|ECML-PKDD|2022
+Interpretability|[HYDRAVIPER: Making Teams and Influencing Agents: Efficiently Coordinating Decision Trees for Interpretable Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2505.19316)|https://github.com/lythronaxargestes/hydraviper-public|AIES|2025
 
 
 ## TODO
